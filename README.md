@@ -1,4 +1,4 @@
-# Olá! Eu sou o Guilherme Augusto
+# Hi! I am Guilherme Augusto
 ## Welcome to my Dev Page
 
 - 🌱 Estudando Sistemas para Internet
