@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong focus
 
 - **PHP**: I use PHP to build powerful, scalable server-side applications. Whether it's creating custom websites or developing complex web systems, PHP is my go-to language for back-end development.
   
-- **JavaScript**: JavaScript is the language that brings my web projects to life. I use it to build interactive and engaging user experiences, and I'm comfortable with both vanilla JavaScript and frameworks like React.
+- **JavaScript**: JavaScript is the language that brings my web projects to life. I use it to build interactive and engaging user experiences, and I'm comfortable with vanilla JavaScript.
   
 - **HTML & CSS**: These are the building blocks of any web project. I use HTML for structuring content and CSS for styling it, ensuring that my websites are responsive, visually appealing, and user-friendly.
   
