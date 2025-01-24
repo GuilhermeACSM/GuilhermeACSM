@@ -1,29 +1,38 @@
-# Hi! I am Guilherme Augusto
-## Welcome to my Dev Page
+# Hello, I'm Guilherme Augusto 👋
 
-- 🌱 Estudando Sistemas para Internet
-<div>
-  <a href="https://github.com/GuilhermeACSM/">
-    <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeACSM&card_width=320&theme=github_dark" />
-  </a>
-  <a href="https://github.com/GuilhermeACSM/">
-    <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeACSM&layout=compact&langs_count=10&card_width=320&theme=github_dark" />
-  </a>
-</div>
+Welcome to my GitHub profile! I'm a passionate web developer with a strong focus on building dynamic, user-friendly applications. I love to work with both front-end and back-end technologies to create seamless, high-performance solutions. My goal is to continually improve my skills and contribute to open-source projects while learning from the community.
 
-##
+### 🚀 Technologies I work with:
 
-<div>
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>  
+- **PHP**: I use PHP to build powerful, scalable server-side applications. Whether it's creating custom websites or developing complex web systems, PHP is my go-to language for back-end development.
+  
+- **JavaScript**: JavaScript is the language that brings my web projects to life. I use it to build interactive and engaging user experiences, and I'm comfortable with both vanilla JavaScript and frameworks like React.
+  
+- **HTML & CSS**: These are the building blocks of any web project. I use HTML for structuring content and CSS for styling it, ensuring that my websites are responsive, visually appealing, and user-friendly.
+  
+- **MySQL**: I rely on MySQL to manage and query data efficiently. Whether it's building a small-scale application or a larger enterprise solution, I use MySQL to create reliable, fast, and secure databases.
 
-##
+### 🌱 Currently learning:
 
-<div> 
-  <a href="https://www.instagram.com/acsmguilherme/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:zguilhermegn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-augusto-corrêa-salgado-moreira-254019313/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+- Improving my skills in **API development** and integration.
 
+### 🔧 My Development Tools:
+
+- **VS Code** for writing clean and efficient code.
+- **Git** and **GitHub** for version control and collaboration.
+
+### 💼 Projects
+
+Here are some of the projects I've worked on, ranging from personal experiments to professional-grade applications:
+
+- [Project Name 1](https://github.com/GuilhermeACSM/JogoDoMosquito) – A fun game project where players need to kill a mosquito. Built with JavaScript and HTML.
+- [Project Name 2](https://github.com/GuilhermeACSM/HelpDesk) – A web-based help desk application where users can manage support tickets. Built with PHP and MySQL (both PDO and non-PDO versions). I learned a lot about database interaction, security practices, and user authentication while developing this project.
+
+Feel free to explore my repositories to learn more about my work, and if you'd like to collaborate, don’t hesitate to reach out!
+
+### 📫 Get in Touch:
+
+- 📧 Email: [zguilhermegn@gmail.com](mailto:zguilhermegn@gmail.com)
+- 🌐 LinkedIn: (https://www.linkedin.com/in/guilherme-augusto-corr%C3%AAa-salgado-moreira-254019313/)
+
+I’m always open to new projects, feedback, and learning opportunities, so let’s connect!
