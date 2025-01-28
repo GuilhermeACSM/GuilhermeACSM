@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong focus
 
 Here are some of the projects I've worked on, ranging from personal experiments to professional-grade applications:
 
-- [Mosquito Slayer](https://github.com/GuilhermeACSM/JogoDoMosquito) – A fun game project where players need to kill a mosquito. Built with JavaScript and HTML.
+- [Mosquito Slayer Game](https://github.com/GuilhermeACSM/JogoDoMosquito) – A fun game project where players need to kill a mosquito. Built with JavaScript and HTML.
 - [Help-Desk](https://github.com/GuilhermeACSM/HelpDesk) – A web-based help desk application where users can manage support tickets. Built with PHP and MySQL (both PDO and non-PDO versions). I learned a lot about database interaction, security practices, and user authentication while developing this project.
 
 Feel free to explore my repositories to learn more about my work, and if you'd like to collaborate, don’t hesitate to reach out!
