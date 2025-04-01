@@ -12,9 +12,14 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong focus
   
 - **MySQL**: I rely on MySQL to manage and query data efficiently. Whether it's building a small-scale application or a larger enterprise solution, I use MySQL to create reliable, fast, and secure databases.
 
+- **Mobile**: I am currently exploring mobile development using React Native. It allows me to build cross-platform apps for both iOS and Android, creating seamless and user-friendly mobile experiences.
+
+- **API Development**: I have learned to develop and integrate APIs using both PHP and React Native. I’m familiar with RESTful services, handling data transfer, and making my applications more dynamic and scalable through API interactions.
+
 ### 🌱 Currently learning:
 
 - Improving my skills in **API development** and integration.
+- Improving my skills in **MOBILE development** and integration.
 
 ### 🔧 My Development Tools:
 
