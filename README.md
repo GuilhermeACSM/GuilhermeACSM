@@ -1,6 +1,6 @@
 # Hello, I'm Guilherme Augusto <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/>
 
-**Computer technician for the internet** at Senac from Santos
+I'm completing my technical course as a **Computer Technician for the Internet** at Senac Santos.
 <br>
 
 ### 🚀 Technologies I work with:
