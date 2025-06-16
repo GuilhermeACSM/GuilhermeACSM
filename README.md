@@ -27,9 +27,7 @@ I'm completing my technical course as a **Computer Technician for the Internet**
 - **VS Code** for writing clean and efficient code.
 - **Git** and **GitHub** for version control and collaboration.
 
-### 💼 Projects
-
-Here are some of the projects I've worked on, ranging from personal experiments to professional-grade applications:
+### 💼 Projects I have developed:
 
 - [Mosquito Slayer Game](https://github.com/GuilhermeACSM/JogoDoMosquito) – A fun game project where players need to kill a mosquito. Built with JavaScript and HTML.
 - [Help-Desk](https://github.com/GuilhermeACSM/HelpDesk) – A web-based help desk application where users can manage support tickets. Built with PHP and MySQL (both PDO and non-PDO versions). I learned a lot about database interaction, security practices, and user authentication while developing this project.
