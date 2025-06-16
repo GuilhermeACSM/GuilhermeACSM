@@ -1,6 +1,6 @@
 # Hello, I'm Guilherme Augusto 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer with a strong focus on building dynamic, user-friendly applications. I love to work with both front-end and back-end technologies to create seamless, high-performance solutions. My goal is to continually improve my skills and contribute to open-source projects while learning from the community.
+Welcome to my GitHub profile! I'm a enthusiast web developer with a strong focus on building dynamic, user-friendly applications. I love to work with both front-end and back-end technologies to create seamless, high-performance solutions. My goal is to continually improve my skills and contribute to open-source projects while learning from the community.
 
 ### 🚀 Technologies I work with:
 
