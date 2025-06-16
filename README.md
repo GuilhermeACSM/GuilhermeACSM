@@ -5,17 +5,13 @@ I'm completing my technical course as a **Computer Technician for the Internet**
 
 ### 🚀 Technologies I work with:
 
-- **PHP**: I use PHP to build powerful, scalable server-side applications. Whether it's creating custom websites or developing complex web systems, PHP is my go-to language for back-end development.
-  
-- **JavaScript**: JavaScript is the language that brings my web projects to life. I use it to build interactive and engaging user experiences, and I'm comfortable with vanilla JavaScript.
-  
-- **HTML & CSS**: These are the building blocks of any web project. I use HTML for structuring content and CSS for styling it, ensuring that my websites are responsive, visually appealing, and user-friendly.
-  
-- **MySQL**: I rely on MySQL to manage and query data efficiently. Whether it's building a small-scale application or a larger enterprise solution, I use MySQL to create reliable, fast, and secure databases.
-
-- **Mobile**: I am currently exploring mobile development using React Native. It allows me to build cross-platform apps for both iOS and Android, creating seamless and user-friendly mobile experiences.
-
-- **API Development**: I have learned to develop and integrate APIs using both PHP and React Native. I’m familiar with RESTful services, handling data transfer, and making my applications more dynamic and scalable through API interactions.
+- **HTML & CSS**
+- **JavaScript**
+- **PHP**
+- **MySQL**
+- **React Native**
+- **NoSQL**
+- **API Development**
 
 ### 🌱 Currently learning:
 
