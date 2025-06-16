@@ -16,7 +16,7 @@ I'm completing my technical course as a **Computer Technician for the Internet**
 ### 🌱 Currently learning:
 
 - Improving my skills in **API development** and integration.
-- Improving my skills in **MOBILE development** and integration.
+- Improving my skills in **MOBILE development** and integration with React Native.
 
 ### 🔧 My Development Tools:
 
