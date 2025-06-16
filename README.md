@@ -1,6 +1,7 @@
 # Hello, I'm Guilherme Augusto <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/>
 
-Welcome to my GitHub profile! I'm a enthusiast web developer with a strong focus on building dynamic, user-friendly applications. I love to work with both front-end and back-end technologies to create seamless, high-performance solutions. My goal is to continually improve my skills and contribute to open-source projects while learning from the community.
+**Computer technician for the internet** at Senac from Santos
+<br>
 
 ### 🚀 Technologies I work with:
 
