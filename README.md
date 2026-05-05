@@ -1,38 +1,36 @@
-# Hello, I'm Guilherme Augusto <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/>
+# Guilherme Augusto Corrêa Salgado Moreira
+**Junior Front-End Developer | Internet Systems Student**
 
-I'm completing my technical course as a **Computer Technician for the Internet** at Senac Santos.
-<br>
+Developer with a solid technical foundation in web technologies and a focus on building efficient, user-centric applications. I hold a technical degree as an **Information Technology for the Internet Technician** from Senac Santos and am currently pursuing a degree in **Internet Systems Technology** at Fatec Rubens Lara. 
 
-### 🚀 Technologies I work with:
+My professional focus lies in developing high-performance websites and web systems, delivering responsive interfaces and seamless integrations using modern ecosystems.
 
-- **HTML & CSS**
-- **JavaScript**
-- **PHP**
-- **MySQL**
-- **React Native**
-- **NoSQL**
-- **API Development**
+### Technical Skills
 
-### 🌱 Currently learning:
+* **Front-End:** Advanced HTML5 and CSS3, JavaScript.
+* **Back-End & Frameworks:** PHP, Laravel.
+* **Databases:** MySQL.
+* **Tools & Version Control:** Git, GitHub, VS Code, RESTful API Integration.
 
-- Improving my skills in **API development** and integration.
-- Improving my skills in **MOBILE development** and integration with React Native.
+### Education
 
-### 🔧 My Development Tools:
+* **Internet Systems Technology** – Fatec Rubens Lara (In progress)
+* **Information Technology for the Internet Technician** – Senac Santos (Completed)
 
-- **VS Code** for writing clean and efficient code.
-- **Git** and **GitHub** for version control and collaboration.
+### Professional Experience
 
-### 💼 Projects I have developed:
+* **Web Developer Intern** – Prodesan (Current)
+  * Developing and maintaining web applications and corporate systems.
+  * Assisting in full-stack development and system integrations to deliver high-performance solutions.
 
-- [Mosquito Slayer Game](https://github.com/GuilhermeACSM/JogoDoMosquito) – A fun game project where players need to kill a mosquito. Built with JavaScript and HTML.
-- [Help-Desk](https://github.com/GuilhermeACSM/HelpDesk) – A web-based help desk application where users can manage support tickets. Built with PHP and MySQL (both PDO and non-PDO versions). I learned a lot about database interaction, security practices, and user authentication while developing this project.
+### Highlighted Projects
 
-Feel free to explore my repositories to learn more about my work, and if you'd like to collaborate, don’t hesitate to reach out!
+* **[Help-Desk](https://github.com/GuilhermeACSM/HelpDesk)** – Web application for support ticket management developed with PHP and MySQL. Implementation of secure database interactions (PDO), security protocols, and user authentication systems.
+* **[Mosquito Slayer](https://github.com/GuilhermeACSM/JogoDoMosquito)** – Project developed with vanilla JavaScript, HTML, and CSS, focused on programming logic, dynamic DOM manipulation, and event management.
 
-### 📫 Get in Touch:
+### Contact
 
-- 📧 Email: [zguilhermegn@gmail.com](mailto:zguilhermegn@gmail.com)
-- 🌐 LinkedIn: (https://www.linkedin.com/in/guilherme-augusto-corr%C3%AAa-salgado-moreira-254019313/)
+I am available for collaborations, projects, and professional opportunities involving the development of innovative technologies.
 
-I’m always open to new projects, feedback, and learning opportunities, so let’s connect!
+* **LinkedIn:** [linkedin.com/in/guilherme-augusto](https://www.linkedin.com/in/guilherme-augusto-corr%C3%AAa-salgado-moreira-254019313/)
+* **E-mail:** [zguilhermegn@gmail.com](mailto:zguilhermegn@gmail.com)
