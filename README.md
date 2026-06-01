@@ -7,7 +7,7 @@ My professional focus lies in developing high-performance websites and web syste
 
 ### Technical Skills
 
-* **Front-End:** Advanced HTML5 and CSS3, JavaScript.
+* **Front-End:** Advanced HTML5 and CSS3, JavaScript (Current learning), React (Current learning).
 * **Back-End & Frameworks:** PHP, Laravel.
 * **Databases:** MySQL.
 * **Tools & Version Control:** Git, GitHub, VS Code, RESTful API Integration.
