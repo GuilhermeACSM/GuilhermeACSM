@@ -1,5 +1,5 @@
 # Guilherme Augusto Corrêa Salgado Moreira
-**Junior Front-End Developer | Internet Systems Student**
+**Junior Front-End Developer | Web Sites and Systems | Internet Systems Student**
 
 Developer with a solid technical foundation in web technologies, strongly focused on building efficient, user-centric sites and web systems. I hold a completed technical degree as an **Information Technology for the Internet Technician** from Senac Santos and am currently pursuing a degree in **Internet Systems Technology** at Fatec Rubens Lara. 
 
@@ -18,7 +18,7 @@ Developer with a solid technical foundation in web technologies, strongly focuse
 
 ### 🚀 Highlighted Projects
 
-* **[Site do Augusto](COLOQUE_O_LINK_DO_REPOSITORIO_AQUI)** – *(Insira uma breve descrição do projeto aqui em inglês. Ex: Responsive website developed to showcase...)*
+* **[Site do Augusto](https://github.com/GuilhermeACSM/Site-Augusto-Duarte)** – An institutional and pre-campaign website developed for a State Deputy candidate in São Paulo[cite: 1]. Built with a strong focus on web accessibility (including VLibras integration, ARIA attributes, skip links, and colorblind filters) and advanced SEO optimization[cite: 1]. Developed entirely without frameworks using semantic HTML5, a custom CSS3 design system, and vanilla JavaScript[cite: 1].
 * **[Help-Desk](https://github.com/GuilhermeACSM/HelpDesk)** – Web application for support ticket management developed with PHP and MySQL. Implementation of secure database interactions (PDO), security protocols, and user authentication systems.
 * **[Mosquito Slayer](https://github.com/GuilhermeACSM/JogoDoMosquito)** – Project developed with vanilla JavaScript, HTML, and CSS, focused on programming logic, dynamic DOM manipulation, and event management.
 
@@ -32,5 +32,5 @@ Developer with a solid technical foundation in web technologies, strongly focuse
 
 I am available for collaborations, projects, and professional opportunities involving the development of innovative technologies.
 
-* **LinkedIn:** [linkedin.com/in/guilherme-augusto](https://www.linkedin.com/in/guilherme-acsm)
+* **LinkedIn:** [linkedin.com/in/guilherme-augusto](https://www.linkedin.com/in/guilherme-acsm/)
 * **E-mail:** [zguilhermegn@gmail.com](mailto:zguilhermegn@gmail.com)
